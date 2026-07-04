@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+networkx
+plotly
+scikit-learn
+beautifulsoup4
+selenium
+google-search-results
